@@ -39,6 +39,16 @@ _commit `aa1ce60` · changes since the start (showing the latest 20 commits)_
 - [G2P-3614](https://openg2p.atlassian.net/browse/G2P-3614) Consolidation. WIP. ([`7fe8455`](https://github.com/OpenG2P/pbms/commit/7fe8455c55dc4cccf46eafd9c4d09c06569ca9be))
 - Create README.md ([`29cd29e`](https://github.com/OpenG2P/pbms/commit/29cd29e674f88b583e73cdf9742d95306de31f5e))
 
+# Withdrawn
+
+These versions were **deleted from the registries** and can no longer be
+pulled or installed. Their entries above are kept so the history stays
+continuous, and they are never re-published under the same version.
+
+| Version | Withdrawn | Reason |
+| --- | --- | --- |
+| `0.0.0-develop.2` | 2026-10-09 | do not deploy |
+
 ---
 
 > **What's shown here.** This catalogue lists **every stable release**, plus
